@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    background-image: linear-gradient(270deg, #010000 10% , #F76B1C 50%, #d1a600 100%);
+
+}
+p{
+    font-size: 20px;
+}
+
+img{
+    width: 10cm;
+    height: auto;
+    border-radius: 5px;
+}
+
+#imagenG{
+    text-align: center;
+}
+
+#enla:hover {
+    transform: translateY(-2px);
+  }
